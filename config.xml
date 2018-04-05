@@ -82,8 +82,11 @@
     <plugin name="cordova-plugin-ionic-webview" spec="^1.1.16" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
     <engine name="android" spec="~7.0.0" />
+<<<<<<< HEAD
     <plugin name="cordova-plugin-camera" spec="^4.0.2" />
     <plugin name="cordova-plugin-camera-preview" spec="^0.9.0" />
     <plugin name="cordova-plugin-file" spec="^6.0.1" />
     <plugin name="cordova.plugins.diagnostic" spec="^4.0.4" />
+=======
+>>>>>>> e8b3f091ce90c171c9eecaa5c87fb0c0fea9b8ad
 </widget>
