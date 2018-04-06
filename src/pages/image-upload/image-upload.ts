@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { NavController, AlertController, IonicPage, NavParams } from 'ionic-angular';
-import { DomSanitizer } from '@angular/platform-browser';
 import { Camera, CameraOptions } from '@ionic-native/camera';
 
 /**
