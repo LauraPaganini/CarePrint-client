@@ -10,4 +10,4 @@ import { ImageUploadPage } from './image-upload';
     IonicPageModule.forChild(ImageUploadPage),
   ],
 })
-export class ImageUploadPageModule {}
+export class ImageUploadPageModule { }

@@ -6,7 +6,7 @@ import { Injectable } from '@angular/core';
  */
 @Injectable()
 export class Api {
-  url: string = 'http://ec2-18-220-19-245.us-east-2.compute.amazonaws.com:8000';
+  url: string = 'http://ec2-18-218-48-151.us-east-2.compute.amazonaws.com:8000';
 
   constructor(public http: HttpClient) {
   }

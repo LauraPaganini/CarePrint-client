@@ -7,7 +7,7 @@
  * The Items service manages creating instances of Item, so go ahead and rename
  * that something that fits your app as well.
  */
-export class Item {
+export class ImageData {
 
   constructor(fields: any) {
     // Quick and dirty extend/assign fields to this model
@@ -19,6 +19,10 @@ export class Item {
 
 }
 
-export interface Item {
-  [prop: string]: any;
+export interface ImageData {
+  hospitalName: string;
+  balance: string;
+  treatmentDate: string;
+  treatmentCode: string;
+  treatmentDesc: string;    
 }
